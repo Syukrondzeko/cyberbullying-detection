@@ -1,0 +1,26 @@
+# Local originals and raw data (not published)
+_archive/
+
+# Training checkpoints / outputs
+stage1/
+stage2/
+stage3_direct/
+notebooks/stage1/
+notebooks/stage2/
+notebooks/stage3_direct/
+results/
+*.safetensors
+*.bin
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+~$*.xlsx
+.vscode/
+.idea/

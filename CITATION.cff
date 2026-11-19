@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Hierarchical Two-Stage BERT for Cyberbullying Detection"
+authors:
+  - family-names: Syukron
+    given-names: Muhamad
+  - family-names: Ramadani
+    given-names: Nayya Safitri
+  - family-names: Firmansyah
+    given-names: Muhammad Ilham
+  - family-names: Putri
+    given-names: Asi Emilia
+repository-code: "https://github.com/Syukrondzeko/cyberbullying-detection"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Hierarchical Two Stage BERT Model for Cyberbullying Detection"
+  authors:
+    - family-names: Syukron
+      given-names: Muhamad
+    - family-names: Ramadani
+      given-names: Nayya Safitri
+    - family-names: Firmansyah
+      given-names: Muhammad Ilham
+    - family-names: Putri
+      given-names: Asi Emilia
+  journal: "IJNMT (International Journal of New Media Technology)"
+  volume: 13
+  issue: 1
+  start: 57
+  end: 64
+  year: 2026
+  doi: "10.31937/ijnmt.v13i1.4730"
